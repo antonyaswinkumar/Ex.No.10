@@ -1,7 +1,7 @@
-# Ex.No.10
+# Ex No:10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
-## Name : Ramkumar G
-## Reg. No: 212223220084
+## Name: Antony Aswin Kumar L
+## Register Number: 212225040024
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
